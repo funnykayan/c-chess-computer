@@ -1,0 +1,66 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+*.out
+chess_engine
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+bin/
+obj/
+out/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Logs
+*.log
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Documentation
+docs/_build/
